@@ -1,3 +1,4 @@
+/*! This file is created by ghongli! */
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -46,7 +47,7 @@
 
 	// require("!style!css!./style.css");
 	__webpack_require__(1);
-	document.write("It works.");
+	// document.write("It works.");
 	document.write(__webpack_require__(5));
 
 
@@ -85,7 +86,7 @@
 
 
 	// module
-	exports.push([module.id, "body {\n  background: #F72671;\n}\n", ""]);
+	exports.push([module.id, "body div {\n  height: 200px;\n  width: 500px;\n  background: #F72671;\n}\n", ""]);
 
 	// exports
 

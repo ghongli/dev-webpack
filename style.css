@@ -1,3 +1,5 @@
-body {
+body div {
+  height: 200px;
+  width: 500px;
   background: #F72671;
 }
